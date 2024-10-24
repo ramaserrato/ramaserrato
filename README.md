@@ -18,9 +18,9 @@
 
 <p align="center">
     <a href="https://ar.linkedin.com/in/ramiro-serrato-494a09287?trk=people-guest_people_search-car">
-        <img alt="Santiago's LinkedIn" width="50px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+        <img alt="Ramiro's LinkedIn" width="50px" src="https://img.icons8.com/nolan/96/linkedin.png" />
     </a>
     <a href="https://www.instagram.com/ramaserrato/">
-        <img alt="Santiago's Instagram" width="50px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+        <img alt="Ramiro's Instagram" width="50px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
     </a>
 </p>
